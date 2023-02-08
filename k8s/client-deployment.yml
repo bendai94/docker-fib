@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: client
-          image: bendai94/multi-client
+          image: bendai94/multi-client-10-14
           ports:
             - containerPort: 3000
